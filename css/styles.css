@@ -705,9 +705,7 @@ img {
 .modal .modal-form {
     display: flex;
     flex-direction: column;
-    gap: 8px;
     align-items: center;
-    margin-bottom: 16px;
 }
 
 .modal-form-div {
