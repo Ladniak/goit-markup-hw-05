@@ -754,6 +754,10 @@ img {
     fill: #4D5AE5;
 }
 
+.modal-form-check-div {
+    margin-bottom: 16px;
+}
+
 .modal-form-textarea {
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
